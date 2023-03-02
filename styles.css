@@ -1,12 +1,14 @@
 body {
     background-color: tomato;
 }
-h1{
-    font-family:Georgia, 'Times New Roman', Times, serif
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif; 
     font-weight: bolder;
 }
+
 a {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
-    color:mediumaquamarine;
+    color: mediumaquamarine;
 }
