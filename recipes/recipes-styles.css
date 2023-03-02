@@ -1,0 +1,15 @@
+h1, h3, h4 {
+	font-family: "Gill Sans Extrabold", sans-serif;
+}
+h4{
+    font-style: italic;
+}
+img {
+    height: auto;
+    width: 300px;
+}
+p, li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+
